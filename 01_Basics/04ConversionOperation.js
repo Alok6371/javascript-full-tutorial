@@ -29,3 +29,6 @@ let StrinNumner = String(someNumber)
 // console.log(StrinNumner);
 
 // console.log(typeof StrinNumner);
+console.log('5' - 3);
+
+console.log('5' + 3);
